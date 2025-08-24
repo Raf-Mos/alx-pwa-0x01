@@ -1,3 +1,0 @@
-# This is a placeholder for apple-icon-152x152.png
-# Please replace this with an actual 152x152 PNG icon generated from the PWA Manifest Generator tool
-# The icon should be your app logo/favicon converted to the correct size
